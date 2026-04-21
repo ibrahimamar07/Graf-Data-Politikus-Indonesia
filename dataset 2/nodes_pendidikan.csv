@@ -1,0 +1,882 @@
+kodeId:ID,nama,:LABEL
+Q4763600,Anglo-Chinese School,Pendidikan
+Q4806246,Asia-Pacific Center for Security Studies,Pendidikan
+Q727675,Asian Institute of Technology,Pendidikan
+Q1026836,California Miramar University,Pendidikan
+Q1026939,"California State University, Northridge",Pendidikan
+Q1033335,Canisius University,Pendidikan
+Q1805085,Chapman University,Pendidikan
+Q5108805,Christ Church Grammar School,Pendidikan
+Q1091287,Chuo University,Pendidikan
+Q762068,Clare Hall,Pendidikan
+Q1095773,Clark University,Pendidikan
+Q4036405,Collège du Léman,Pendidikan
+Q5158784,Concord College,Pendidikan
+Q5171560,Cornell University College of Agriculture and Life Sciences,Pendidikan
+Q5184361,Crescent Girls' School,Pendidikan
+Q1815710,De La Salle University,Pendidikan
+Q5365245,Ellesmere College,Pendidikan
+Q4793919,Georgia Southern University-Armstrong Campus,Pendidikan
+Q1353139,Glasgow Caledonian University,Pendidikan
+Q5568357,Glendale Community College,Pendidikan
+Q1534879,Golden Gate University,Pendidikan
+Q52637569,Hang Tuah University,Pendidikan
+Q5658432,Harlandale High School,Pendidikan
+Q5676556,Harvard T.H. Chan School of Public Health,Pendidikan
+Q579611,Haverford College,Pendidikan
+Q74433163,IKA STAIN Purwokerto,Pendidikan
+Q5974512,ISS International School,Pendidikan
+Q1209685,Ibaraki University,Pendidikan
+Q6004629,Immanuel College,Pendidikan
+Q97570581,Institut Ilmu Pemerintahan Jakarta,Pendidikan
+Q97581736,Institut Islam Mamba'ul 'Ulum Surakarta,Pendidikan
+Q108966439,Institute of Business Management Jayakarta,Pendidikan
+Q1881864,Institute of Tropical Medicine Antwerp,Pendidikan
+Q2811679,International Institute of Social Studies,Pendidikan
+Q98713576,International School of Screen Acting,Pendidikan
+Q1136919,Iowa State University,Pendidikan
+Q97941611,Jakarta Merchant Marine Institute,Pendidikan
+Q2687517,Jinan University,Pendidikan
+Q682739,Johannes Kepler University Linz,Pendidikan
+Q6367758,Karachi Grammar School,Pendidikan
+Q833670,Katholieke Universiteit Leuven,Pendidikan
+Q912329,Kindai University,Pendidikan
+Q6514349,Lee Kuan Yew School of Public Policy,Pendidikan
+Q6746666,Management Development Institute of Singapore,Pendidikan
+Q613736,Metropolitan State University of Denver,Pendidikan
+Q1568237,National University,Pendidikan
+Q7010804,New Orleans University,Pendidikan
+Q25066942,New Zealand School Jakarta,Pendidikan
+Q890928,Newport University,Pendidikan
+Q1132346,North Carolina State University,Pendidikan
+Q3443498,Oklahoma City University,Pendidikan
+Q7109265,Ottawa University,Pendidikan
+Q1087492,Pacific Western University,Pendidikan
+Q1352632,Paul H. Nitze School of Advanced International Studies,Pendidikan
+Q7161482,Pelita Harapan School,Pendidikan
+Q74433095,Pendidikan Guru Madrasah Ibtidaiyah (PGMI),Pendidikan
+Q3418943,Ranger School,Pendidikan
+Q98768248,SD Negeri Dukuhmulyo 2,Pendidikan
+Q98202778,SD Negeri Karubaga,Pendidikan
+Q98635243,SD Tarakanita 2,Pendidikan
+Q98745782,SMA Kristen YPKPM Ambon,Pendidikan
+Q97596489,SMP Budi Waluyo Jakarta,Pendidikan
+Q98768246,SMP Negeri 1 Jakenan,Pendidikan
+Q97596279,SMP Negeri 4 Karawang,Pendidikan
+Q97577681,SMP Negeri 40 Jakarta,Pendidikan
+Q97596258,SMP Negeri 5 Yogyakarta,Pendidikan
+Q12708495,SMPN 168 Jakarta,Pendidikan
+Q97621584,STIE Palangka Raya,Pendidikan
+Q97577630,STIMA IMMI JAKARTA,Pendidikan
+Q52664799,Sekolah Tinggi Ilmu Ekonomi (STIE) Pasundan,Pendidikan
+Q7589481,St Lawrence College,Pendidikan
+Q2983676,St Pius X College,Pendidikan
+Q7590080,St. Mary's Academy of Pasay,Pendidikan
+Q1413558,Stanford Graduate School of Business,Pendidikan
+Q57046996,Stedelijk Gymnasium Haarlem,Pendidikan
+Q54166,TH Köln – University of Applied Sciences,Pendidikan
+Q534845,Takushoku University,Pendidikan
+Q1362729,Technical University of Lisbon,Pendidikan
+Q7713555,The American School in London,Pendidikan
+Q1073441,The Fletcher School of Law and Diplomacy,Pendidikan
+Q7758687,The Public Authority for Applied Education and Training,Pendidikan
+Q52907010,Tomo,Pendidikan
+Q74546091,UNAIR,Pendidikan
+Q540280,United States Army Airborne School,Pendidikan
+Q1115050,United States Army Command and General Staff College,Pendidikan
+Q129343459,Universitas Caritas Indonesia,Pendidikan
+Q74555374,"Universitas Gadjah Mada, Fakultas Kedokteran Hewan",Pendidikan
+Q74551587,"Universitas Islam Negeri Syarif Hidayatullah Jakarta, Fakultas Syari'ah dan Hukum",Pendidikan
+Q30294479,Universitas Kejuangan 45 Jakarta,Pendidikan
+Q681025,University at Buffalo,Pendidikan
+Q1055874,University of Bridgeport,Pendidikan
+Q5146711,"University of California, Berkeley College of Environmental Design",Pendidikan
+Q1474019,University of Hull,Pendidikan
+Q835440,University of Konstanz,Pendidikan
+Q7895699,University of Maryland School of Public Policy,Pendidikan
+Q168426,University of Münster,Pendidikan
+Q1814435,University of New England,Pendidikan
+Q1191202,University of North Carolina,Pendidikan
+Q627969,University of Ottawa,Pendidikan
+Q1711558,University of Plymouth,Pendidikan
+Q1432632,University of Reading,Pendidikan
+Q2738622,University of Salford,Pendidikan
+Q1859178,University of Strathclyde,Pendidikan
+Q1848657,University of Tulsa,Pendidikan
+Q574606,Université libre de Bruxelles,Pendidikan
+Q2303536,Virginia Commonwealth University,Pendidikan
+Q7970404,Warren National University,Pendidikan
+Q1465303,Webster University,Pendidikan
+Q429561,Wichita State University,Pendidikan
+Q8022149,Williston Northampton School,Pendidikan
+Q97570586,APDN Makassar,Pendidikan
+Q12471192,Akademi Angkatan Laut,Pendidikan
+Q12471193,Akademi Angkatan Udara,Pendidikan
+Q17997867,Akademi Kepolisian,Pendidikan
+Q109913657,Akademi Maritim Djadajat,Pendidikan
+Q10862512,Akademi Militer,Pendidikan
+Q12471222,Akademi TNI,Pendidikan
+Q12471190,Akademi Tentara Nasional Indonesia,Pendidikan
+Q2626206,Algemeene Middelbare School,Pendidikan
+Q4745400,American World University,Pendidikan
+Q4892294,Berkshire School,Pendidikan
+Q864450,Biola University,Pendidikan
+Q1111640,Colorado State University,Pendidikan
+Q536282,"Corpus Christi College, Cambridge",Pendidikan
+Q12481560,Diniyyah Puteri Padang Panjang,Pendidikan
+Q1890262,Europeesche Lagere School,Pendidikan
+Q49122,Fakultas Hukum Universitas Harvard,Pendidikan
+Q12482738,Fakultas Hukum Universitas Lambung Mangkurat,Pendidikan
+Q20427430,Fakultas Keguruan dan Ilmu Pendidikan Universitas Sebelas Maret,Pendidikan
+Q1438462,Fort Moore,Pendidikan
+Q101259110,Frankfurt University of Applied Sciences Archido,Pendidikan
+Q3217284,Hogereburgerschool,Pendidikan
+Q7428928,Hollandsch-Inlandsche School,Pendidikan
+Q12486117,IAIN Ar-Raniry,Pendidikan
+Q109921406,IAIN Imam Bonjol Padang,Pendidikan
+Q1136829,INSEAD,Pendidikan
+Q189022,Imperial College London,Pendidikan
+Q25468649,Institut Agama Islam Darussalam Ciamis,Pendidikan
+Q14917448,Institut Agama Islam Negeri Pontianak,Pendidikan
+Q12486643,Institut Bisnis dan Informatika Indonesia,Pendidikan
+Q12486647,Institut Ilmu Sosial dan Ilmu Politik Jakarta,Pendidikan
+Q12486667,Institut Keguruan dan Ilmu Pendidikan,Pendidikan
+Q3806225,Institut Kesenian Jakarta,Pendidikan
+Q19741356,Institut Komunikasi dan Bisnis LSPR,Pendidikan
+Q1057398,Institut Manajemen Asia,Pendidikan
+Q7697348,Institut Manajemen Telkom,Pendidikan
+Q19751985,Institut Pemerintahan Dalam Negeri,Pendidikan
+Q2306715,Institut Pertanian Bogor,Pendidikan
+Q12486653,Institut Sains dan Teknologi Nasional,Pendidikan
+Q3152325,Institut Seni Indonesia Yogyakarta,Pendidikan
+Q1579397,Institut Teknologi Bandung,Pendidikan
+Q12486657,Institut Teknologi Indonesia,Pendidikan
+Q12486659,Institut Teknologi Medan,Pendidikan
+Q12486660,Institut Teknologi Nasional,Pendidikan
+Q7452397,Institut Teknologi Sepuluh Nopember,Pendidikan
+Q3846721,Institut Teknologi Telkom,Pendidikan
+Q12513102,Institut Transportasi dan Logistik Trisakti,Pendidikan
+Q18206727,Jamiat Kheir,Pendidikan
+Q845138,Japan Advanced Institute of Science and Technology,Pendidikan
+Q1824905,Kolese Kanisius,Pendidikan
+Q1059517,Kolese Winchester,Pendidikan
+Q19727928,Koning Willem III School te Batavia,Pendidikan
+Q934782,Koninklijke Militaire Academie,Pendidikan
+Q58667835,Kweekschool Fort de Kock,Pendidikan
+Q10862378,Lembaga Ilmu Pengetahuan Islam dan Arab,Pendidikan
+Q12494364,Lembaga Ketahanan Nasional,Pendidikan
+Q372042,Lembaga Pelatihan Eropa,Pendidikan
+Q174570,London School of Economics and Political Science,Pendidikan
+Q65250918,MA Kulliyatul Muballighien,Pendidikan
+Q12495724,MAN 1 Banyuwangi,Pendidikan
+Q72811494,MAN 2 Padang Panjang,Pendidikan
+Q123444875,MAS Darularafah,Pendidikan
+Q97577578,MIN 1 Kota Bandung,Pendidikan
+Q123768131,MIN 12 Bireuen,Pendidikan
+Q64870303,MIS Mi Miftahul Falah Barak Bokong,Pendidikan
+Q97608144,MTSN Srono Banyuwangi,Pendidikan
+Q64887949,MTs Darul Ulum Rimbo Bujang,Pendidikan
+Q125240694,MTs Darularafah,Pendidikan
+Q125240465,MTs Islamiyah Kota Pinang,Pendidikan
+Q123766785,MTs Negeri 1 Payakumbuh,Pendidikan
+Q123766730,MTs Negeri 2 Padang Pariaman,Pendidikan
+Q123766765,MTs Negeri 2 Solok Selatan,Pendidikan
+Q123766780,MTs Negeri 6 Padang,Pendidikan
+Q2190504,Meer Uitgebreid Lager Onderwijs,Pendidikan
+Q1191344,Northern Illinois University,Pendidikan
+Q12501424,Opleiding School Voor Inlandsche Ambtenaren,Pendidikan
+Q97570549,Pasca Sarjana Universitas Sumatera Utara,Pendidikan
+Q3180139,Pembela Tanah Air,Pendidikan
+Q12504954,Perguruan Cikini,Pendidikan
+Q97234922,Perguruan Thawalib Padang Panjang,Pendidikan
+Q12506014,Politeknik Ilmu Pelayaran Semarang,Pendidikan
+Q4027436,Politeknik Negeri Padang,Pendidikan
+Q18627429,Politeknik Negeri Pontianak,Pendidikan
+Q97572810,Politeknik STIA LAN Bandung,Pendidikan
+Q12506117,Pondok Modern Darussalam Gontor,Pendidikan
+Q125914672,Pondok Pesantren El-Nur El-Kasysyaf,Pendidikan
+Q12506153,Pondok Pesantren Tebuireng,Pendidikan
+Q4208174,Pondok Pesantren Wali Songo Ngabar,Pendidikan
+Q632004,Radboud Universiteit,Pendidikan
+Q19752649,Rechtshoogeschool te Batavia,Pendidikan
+Q1133142,Ritsumeikan Asia Pacific University,Pendidikan
+Q97598818,SD Budi Mulia Bogor,Pendidikan
+Q12509708,SD Immanuel,Pendidikan
+Q64881072,SD Islam Mujahidin,Pendidikan
+Q12509743,SD Merdeka,Pendidikan
+Q12509746,SD Muhammadiyah 24,Pendidikan
+Q124104697,SD Negeri 060951 Medan,Pendidikan
+Q99088852,SD Negeri 09 Tebet Timur,Pendidikan
+Q124200097,SD Negeri 1 Kawali,Pendidikan
+Q121119286,SD Negeri 1 Padang Panjang Barat,Pendidikan
+Q123809140,SD Negeri 1 Remban,Pendidikan
+Q109332412,SD Negeri 1 Sijunjung,Pendidikan
+Q64888980,SD Negeri 1/VI Bangko I,Pendidikan
+Q124187886,SD Negeri 10 Ciamis,Pendidikan
+Q123813551,SD Negeri 2 Ampalu,Pendidikan
+Q124079002,SD Negeri 2 Kotapinang,Pendidikan
+Q116844713,SD Negeri 4 Biaro,Pendidikan
+Q123814737,SD Negeri 4 Koto Baru,Pendidikan
+Q123806109,SD Negeri 5 Bengkalis,Pendidikan
+Q124205630,SD Negeri Jember Kidul 1,Pendidikan
+Q12509597,SD Negeri Lubang Buaya 13 Pagi,Pendidikan
+Q124183367,SD Negeri Pacet 1,Pendidikan
+Q20460957,SD Negeri Pulogadung 2 Petang,Pendidikan
+Q97596265,SD Negeri Ungaran I Yogyakarta,Pendidikan
+Q64828459,SD Taman Siswa,Pendidikan
+Q111684068,SD Yos Sudarso Garut Kota,Pendidikan
+Q98745833,SDN I Ambon,Pendidikan
+Q97597236,SDN I Kemaraya,Pendidikan
+Q107739279,SDN II Ayula Selatan,Pendidikan
+Q19734560,SMA Don Bosco Padang,Pendidikan
+Q123451689,SMA Dr Wahidin Sudirohusodo Medan,Pendidikan
+Q14933548,SMA Islam Al-Azhar 1 Jakarta,Pendidikan
+Q31781597,SMA KP 1 Ciparay,Pendidikan
+Q12702225,SMA Muhammadiyah 3 Jakarta,Pendidikan
+Q64879856,SMA Negeri 1 Abiansemal,Pendidikan
+Q12510246,SMA Negeri 1 Ambon,Pendidikan
+Q12510248,SMA Negeri 1 Ampek Angkek,Pendidikan
+Q19734587,SMA Negeri 1 Banda Aceh,Pendidikan
+Q19734594,SMA Negeri 1 Bandung,Pendidikan
+Q123387776,SMA Negeri 1 Batipuh,Pendidikan
+Q12510274,SMA Negeri 1 Brebes,Pendidikan
+Q123387291,SMA Negeri 1 Bukit,Pendidikan
+Q12510277,SMA Negeri 1 Bukittinggi,Pendidikan
+Q31787633,SMA Negeri 1 Ciamis,Pendidikan
+Q19734661,SMA Negeri 1 Cilacap,Pendidikan
+Q19734681,SMA Negeri 1 Denpasar,Pendidikan
+Q12510293,SMA Negeri 1 Garut,Pendidikan
+Q19745500,SMA Negeri 1 Jakarta,Pendidikan
+Q98768244,SMA Negeri 1 Jakenan,Pendidikan
+Q12510315,SMA Negeri 1 Kendari,Pendidikan
+Q12510320,SMA Negeri 1 Klaten,Pendidikan
+Q12510413,SMA Negeri 1 Kota Semarang,Pendidikan
+Q19734756,SMA Negeri 1 Kotamobagu,Pendidikan
+Q123387671,SMA Negeri 1 Kotapinang,Pendidikan
+Q19734760,SMA Negeri 1 Kuala Kapuas,Pendidikan
+Q12510329,SMA Negeri 1 Lamongan,Pendidikan
+Q123389706,SMA Negeri 1 Lirung,Pendidikan
+Q12510337,SMA Negeri 1 Magelang,Pendidikan
+Q19734784,SMA Negeri 1 Majene,Pendidikan
+Q19734802,SMA Negeri 1 Manado,Pendidikan
+Q12510348,SMA Negeri 1 Medan,Pendidikan
+Q12510364,SMA Negeri 1 Pacitan,Pendidikan
+Q12510366,SMA Negeri 1 Padang,Pendidikan
+Q12510368,SMA Negeri 1 Padang Panjang,Pendidikan
+Q12510382,SMA Negeri 1 Pariaman,Pendidikan
+Q19748089,SMA Negeri 1 Pekalongan,Pendidikan
+Q19734881,SMA Negeri 1 Pematang Siantar,Pendidikan
+Q19734891,SMA Negeri 1 Pontianak,Pendidikan
+Q19734894,SMA Negeri 1 Poso,Pendidikan
+Q76402712,SMA Negeri 1 Sijunjung,Pendidikan
+Q12510322,SMA Negeri 1 Solok,Pendidikan
+Q97598446,SMA Negeri 1 Sukatani,Pendidikan
+Q12510430,SMA Negeri 1 Sumedang,Pendidikan
+Q19752275,SMA Negeri 1 Surakarta,Pendidikan
+Q19748105,SMA Negeri 1 Temanggung,Pendidikan
+Q12510454,SMA Negeri 1 Wamena,Pendidikan
+Q17056026,SMA Negeri 1 Yogyakarta,Pendidikan
+Q19735065,SMA Negeri 11 Bandung,Pendidikan
+Q12510188,SMA Negeri 11 Jakarta,Pendidikan
+Q12510187,SMA Negeri 114 Jakarta,Pendidikan
+Q19735082,SMA Negeri 12 Bandung,Pendidikan
+Q19735092,SMA Negeri 12 Jakarta,Pendidikan
+Q12510207,SMA Negeri 13 Bandung,Pendidikan
+Q12510217,SMA Negeri 14 Jakarta,Pendidikan
+Q12510229,SMA Negeri 15 Kota Semarang,Pendidikan
+Q12510242,SMA Negeri 19 Bandung,Pendidikan
+Q12510486,SMA Negeri 2 Bogor,Pendidikan
+Q12510488,SMA Negeri 2 Bukittinggi,Pendidikan
+Q97598551,SMA Negeri 2 Cilacap,Pendidikan
+Q12510497,SMA Negeri 2 Kediri,Pendidikan
+Q12510508,SMA Negeri 2 Lumajang,Pendidikan
+Q19735173,SMA Negeri 2 Manado,Pendidikan
+Q12510519,SMA Negeri 2 Padang,Pendidikan
+Q19735187,SMA Negeri 2 Surabaya,Pendidikan
+Q12510547,SMA Negeri 2 Yogyakarta,Pendidikan
+Q19735191,SMA Negeri 24 Jakarta,Pendidikan
+Q28725217,SMA Negeri 28 Jakarta,Pendidikan
+Q12510476,SMA Negeri 29 Jakarta,Pendidikan
+Q7391096,SMA Negeri 3 Bandung,Pendidikan
+Q19735196,SMA Negeri 3 Denpasar,Pendidikan
+Q12510564,SMA Negeri 3 Jakarta,Pendidikan
+Q12510569,SMA Negeri 3 Kota Malang,Pendidikan
+Q12510572,SMA Negeri 3 Medan,Pendidikan
+Q12510575,SMA Negeri 3 Padang,Pendidikan
+Q75164773,SMA Negeri 3 Solok Selatan,Pendidikan
+Q19748156,SMA Negeri 3 Yogyakarta,Pendidikan
+Q31777795,SMA Negeri 30 Jakarta,Pendidikan
+Q19735212,SMA Negeri 34 Jakarta,Pendidikan
+Q12510549,SMA Negeri 36 Jakarta,Pendidikan
+Q31778738,SMA Negeri 37 Jakarta,Pendidikan
+Q12510550,SMA Negeri 39 Jakarta,Pendidikan
+Q17997518,SMA Negeri 4 Jakarta,Pendidikan
+Q12510611,SMA Negeri 4 Makassar,Pendidikan
+Q19752881,SMA Negeri 4 Surabaya,Pendidikan
+Q12510593,SMA Negeri 42 Jakarta,Pendidikan
+Q12510595,SMA Negeri 47 Jakarta,Pendidikan
+Q5287796,SMA Negeri 5 Bandung,Pendidikan
+Q12510627,SMA Negeri 5 Banjarmasin,Pendidikan
+Q17997530,SMA Negeri 5 Jakarta,Pendidikan
+Q12510632,SMA Negeri 5 Kota Jambi,Pendidikan
+Q12510646,SMA Negeri 5 Surabaya,Pendidikan
+Q19748166,SMA Negeri 5 Yogyakarta,Pendidikan
+Q17997383,SMA Negeri 50 Jakarta,Pendidikan
+Q12510656,SMA Negeri 6 Jakarta,Pendidikan
+Q19752279,SMA Negeri 6 Manado,Pendidikan
+Q12510660,SMA Negeri 6 Padang,Pendidikan
+Q19739360,SMA Negeri 6 Surakarta,Pendidikan
+Q12510668,SMA Negeri 6 Yogyakarta,Pendidikan
+Q12510648,SMA Negeri 66 Jakarta,Pendidikan
+Q7391097,SMA Negeri 68 Jakarta,Pendidikan
+Q12510680,SMA Negeri 7 Denpasar,Pendidikan
+Q12510681,SMA Negeri 7 Jakarta,Pendidikan
+Q12510684,SMA Negeri 7 Medan,Pendidikan
+Q12510693,SMA Negeri 7 Surakarta,Pendidikan
+Q12707341,SMA Negeri 70 Jakarta,Pendidikan
+Q12510700,SMA Negeri 8 Bandung,Pendidikan
+Q7391101,SMA Negeri 8 Jakarta,Pendidikan
+Q12510696,SMA Negeri 81 Jakarta,Pendidikan
+Q7391099,SMA Negeri 82 Jakarta,Pendidikan
+Q20448866,SMA Negeri 9 Jakarta,Pendidikan
+Q12510732,SMA Negeri 9 Surabaya,Pendidikan
+Q7391421,SMA Pangudi Luhur Jakarta,Pendidikan
+Q12510739,SMA Pangudi Luhur Van Lith,Pendidikan
+Q100418860,SMA Perintis Denpasar,Pendidikan
+Q123453757,SMA Pesantren Immim,Pendidikan
+Q123454290,SMA Setia Dharma,Pendidikan
+Q64895246,SMA Taman Siswa,Pendidikan
+Q7686944,SMA Taruna Nusantara,Pendidikan
+Q64575776,SMA Tunas Harapan,Pendidikan
+Q57947176,SMA Xaverius 1 Palembang,Pendidikan
+Q98202744,SMA YPK ASISI,Pendidikan
+Q25457836,SMA Yos Sudarso Cilacap,Pendidikan
+Q97572684,SMAN I Tanjung Karang,Pendidikan
+Q97572683,SMAN I Ujung Pandang,Pendidikan
+Q123394986,SMK Negeri 1 Muna,Pendidikan
+Q123395804,SMK Negeri 1 Pangkalpinang,Pendidikan
+Q31173835,SMK Negeri 2 Sawahlunto,Pendidikan
+Q19752277,SMK Negeri 2 Surakarta,Pendidikan
+Q123395170,SMK Negeri 3 Ambon,Pendidikan
+Q31778877,SMK Negeri 51 Jakarta,Pendidikan
+Q123395567,SMK Pertanian Pembangunan Negeri Bengkulu,Pendidikan
+Q31778737,SMK Walisongo Jakarta,Pendidikan
+Q64872996,SMP 17 Agustus,Pendidikan
+Q64893423,SMP Diponegoro Tanjung Bintang,Pendidikan
+Q109330029,SMP Frater Padang,Pendidikan
+Q125034004,SMP Islam Al Azhar I,Pendidikan
+Q125050089,SMP Kristen Kawangkoan,Pendidikan
+Q19739792,SMP Labschool Kebayoran,Pendidikan
+Q65212544,SMP Muhammadiyah 1 Surakarta,Pendidikan
+Q64879864,SMP Negeri 1 Abiansemal,Pendidikan
+Q65210693,SMP Negeri 1 Arjawinangun,Pendidikan
+Q12510986,SMP Negeri 1 Banda Aceh,Pendidikan
+Q19739811,SMP Negeri 1 Banjarmasin,Pendidikan
+Q97572803,SMP Negeri 1 Binjai,Pendidikan
+Q97577573,SMP Negeri 1 Blangkejeren,Pendidikan
+Q123774213,SMP Negeri 1 Bukittinggi,Pendidikan
+Q116289096,SMP Negeri 1 Ciamis,Pendidikan
+Q12511001,SMP Negeri 1 Cilacap,Pendidikan
+Q12511012,SMP Negeri 1 Gresik,Pendidikan
+Q16877900,SMP Negeri 1 Jakarta,Pendidikan
+Q12511013,SMP Negeri 1 Jember,Pendidikan
+Q13200125,SMP Negeri 1 Kawali,Pendidikan
+Q12511017,SMP Negeri 1 Kendari,Pendidikan
+Q123771375,SMP Negeri 1 Kota Bengkulu,Pendidikan
+Q123772853,SMP Negeri 1 Kotapinang,Pendidikan
+Q123773288,SMP Negeri 1 Labuhan Deli,Pendidikan
+Q12511024,SMP Negeri 1 Lamongan,Pendidikan
+Q19748362,SMP Negeri 1 Magelang,Pendidikan
+Q12511027,SMP Negeri 1 Manado,Pendidikan
+Q19739892,SMP Negeri 1 Medan,Pendidikan
+Q123792449,SMP Negeri 1 Pacet,Pendidikan
+Q12511035,SMP Negeri 1 Pacitan,Pendidikan
+Q19746602,SMP Negeri 1 Padang,Pendidikan
+Q121127078,SMP Negeri 1 Padang Panjang,Pendidikan
+Q12511036,SMP Negeri 1 Palembang,Pendidikan
+Q123773865,SMP Negeri 1 Payakumbuh,Pendidikan
+Q117449250,SMP Negeri 1 Sijunjung,Pendidikan
+Q64879314,SMP Negeri 1 Singaraja,Pendidikan
+Q123774044,SMP Negeri 1 Sitiung,Pendidikan
+Q122200459,SMP Negeri 1 Solok,Pendidikan
+Q25455566,SMP Negeri 1 Sungguminasa,Pendidikan
+Q12511053,SMP Negeri 1 Surabaya,Pendidikan
+Q12511060,SMP Negeri 1 Wonosobo,Pendidikan
+Q12510912,SMP Negeri 109 Jakarta,Pendidikan
+Q56392794,SMP Negeri 11 Jakarta,Pendidikan
+Q12510927,SMP Negeri 115 Jakarta,Pendidikan
+Q64575258,SMP Negeri 12 Jakarta,Pendidikan
+Q12510937,SMP Negeri 12 Medan,Pendidikan
+Q19739973,SMP Negeri 12 Semarang,Pendidikan
+Q25462661,SMP Negeri 12 Surabaya,Pendidikan
+Q12510939,SMP Negeri 13 Bandung,Pendidikan
+Q109062183,SMP Negeri 13 Padang,Pendidikan
+Q25462675,SMP Negeri 15 Surabaya,Pendidikan
+Q12510953,SMP Negeri 154 Jakarta,Pendidikan
+Q19740064,SMP Negeri 2 Bandung,Pendidikan
+Q12511105,SMP Negeri 2 Depok,Pendidikan
+Q12511106,SMP Negeri 2 Garut,Pendidikan
+Q97621591,SMP Negeri 2 Kapuas Kuala,Pendidikan
+Q12511108,SMP Negeri 2 Kendari,Pendidikan
+Q19740092,SMP Negeri 2 Manado,Pendidikan
+Q12511113,SMP Negeri 2 Mataram,Pendidikan
+Q12511116,SMP Negeri 2 Palangka Raya,Pendidikan
+Q19740102,SMP Negeri 2 Palu,Pendidikan
+Q12511120,SMP Negeri 2 Semarang,Pendidikan
+Q123774014,SMP Negeri 2 Sijunjung,Pendidikan
+Q56391215,SMP Negeri 2 Sungai Penuh,Pendidikan
+Q12708504,SMP Negeri 20 Jakarta,Pendidikan
+Q123770835,SMP Negeri 20 Pekanbaru,Pendidikan
+Q64575367,SMP Negeri 206 Jakarta,Pendidikan
+Q97577684,SMP Negeri 22 Jakarta,Pendidikan
+Q106037215,SMP Negeri 3 Ambon,Pendidikan
+Q25466592,SMP Negeri 3 Bandung,Pendidikan
+Q123774214,SMP Negeri 3 Bukittinggi,Pendidikan
+Q12511162,SMP Negeri 3 Jember,Pendidikan
+Q123774216,SMP Negeri 4 Bukittinggi,Pendidikan
+Q112590962,SMP Negeri 4 Jambi,Pendidikan
+Q109330048,SMP Negeri 4 Padang,Pendidikan
+Q12511174,SMP Negeri 41 Jakarta,Pendidikan
+Q12511196,SMP Negeri 5 Bandung,Pendidikan
+Q19746637,SMP Negeri 5 Bogor,Pendidikan
+Q12511198,SMP Negeri 5 Jakarta,Pendidikan
+Q123774084,SMP Negeri 5 Padang,Pendidikan
+Q97210189,SMP Negeri 6 Ambon,Pendidikan
+Q28725246,SMP Negeri 6 Bukittinggi,Pendidikan
+Q65452073,SMP Negeri 6 Gorontalo,Pendidikan
+Q12511211,SMP Negeri 6 Surakarta,Pendidikan
+Q123771366,SMP Negeri 7 Kota Bengkulu,Pendidikan
+Q64575277,SMP Negeri 73 Jakarta,Pendidikan
+Q64575370,SMP Negeri 76 Jakarta,Pendidikan
+Q25467218,SMP Negeri 8 Bandung,Pendidikan
+Q19746662,SMP Negeri 81 Jakarta,Pendidikan
+Q56399689,SMP Negeri 9 Palu,Pendidikan
+Q98202768,SMP Negeri Karubaga,Pendidikan
+Q125049703,SMP Pesantren Immim Makassar,Pendidikan
+Q97598785,SMP Sang Timur,Pendidikan
+Q64895262,SMP Taman Siswa Gedong Tataan,Pendidikan
+Q125033030,SMP Tunas Indonesia,Pendidikan
+Q125034542,SMP Yappenda,Pendidikan
+Q77299396,SMP Yos Sudarso Padang,Pendidikan
+Q62070209,SMPN 15 Bandung,Pendidikan
+Q109913939,"STAI Pancawahana (STAIPANA) Bangil, Pasuruan",Pendidikan
+Q109921919,STAI Tafaqquhfiddin Dumai,Pendidikan
+Q97598324,STAIPI Bandung,Pendidikan
+Q97577635,STHM AHM-PTHM,Pendidikan
+Q97572685,STIE ABI Surabaya,Pendidikan
+Q97572626,STIE Bisnis Indonesia,Pendidikan
+Q109919364,STIE IBEK Pangkalpinang Bangka,Pendidikan
+Q97577621,STIE ISM,Pendidikan
+Q19741350,STIE Keuangan Perbankan dan Pembangunan Padang,Pendidikan
+Q109919422,STIE Pengembangan Bisnis Dan Manajemen,Pendidikan
+Q97570094,STIE dan STMIK Jayakarta,Pendidikan
+Q12511291,STIE-IPWI Jakarta,Pendidikan
+Q109921869,STISIP Tasikmalaya,Pendidikan
+Q97577617,STM IMMI,Pendidikan
+Q1934491,STOVIA,Pendidikan
+Q124313841,School Tot Opleiding van Indische Tandartsen,Pendidikan
+Q220144,School of Oriental and African Studies,Pendidikan
+Q49126,Sekolah Bisnis Universitas Harvard,Pendidikan
+Q28724699,Sekolah Inspektur Polisi Sumber Sarjana,Pendidikan
+Q109432842,Sekolah Menengah Atas BOPKRI 1 Yogyakarta,Pendidikan
+Q108873634,Sekolah Menengah Atas PGRI 2 Denpasar,Pendidikan
+Q7100286,Sekolah Menengah Orchid Park,Pendidikan
+Q49127,Sekolah Pemerintahan John F. Kennedy,Pendidikan
+Q1111367,Sekolah Pertambangan Colorado,Pendidikan
+Q7308519,Sekolah Regina Pacis,Pendidikan
+Q12513038,Sekolah Staf dan Komando Angkatan Darat,Pendidikan
+Q6026203,Sekolah Tinggi Akuntansi Negara,Pendidikan
+Q12511290,Sekolah Tinggi Bahasa Asing Malang,Pendidikan
+Q12513061,Sekolah Tinggi Filsafat Driyarkara Jakarta,Pendidikan
+Q31129606,Sekolah Tinggi Filsafat Katolik Ledalero,Pendidikan
+Q109911978,Sekolah Tinggi Hukum Indonesia Jakarta,Pendidikan
+Q109913497,Sekolah Tinggi Ilmu Administrasi Bengkulu,Pendidikan
+Q12513063,Sekolah Tinggi Ilmu Administrasi Bina Banua,Pendidikan
+Q104633597,Sekolah Tinggi Ilmu Administrasi Malang,Pendidikan
+Q19732714,Sekolah Tinggi Ilmu Administrasi Mandala Indonesia,Pendidikan
+Q97577624,Sekolah Tinggi Ilmu Ekonomi Ganesha,Pendidikan
+Q109912135,Sekolah Tinggi Ilmu Ekonomi KBP,Pendidikan
+Q12511297,Sekolah Tinggi Ilmu Ekonomi Malangkucecwara,Pendidikan
+Q67180070,Sekolah Tinggi Ilmu Ekonomi Mitra Indonesia,Pendidikan
+Q25465766,Sekolah Tinggi Ilmu Ekonomi Paripurna,Pendidikan
+Q97572828,Sekolah Tinggi Ilmu Ekonomi Pelita Bangsa,Pendidikan
+Q67179864,Sekolah Tinggi Ilmu Ekonomi Solusi Bisnis Indonesia,Pendidikan
+Q67179948,Sekolah Tinggi Ilmu Ekonomi YKP,Pendidikan
+Q12511308,Sekolah Tinggi Ilmu Ekonomi Yayasan Keluarga Pahlawan Negara,Pendidikan
+Q12513077,Sekolah Tinggi Ilmu Hukum Manokwari,Pendidikan
+Q97596283,Sekolah Tinggi Ilmu Hukum Padang,Pendidikan
+Q19752729,Sekolah Tinggi Ilmu Hukum Sultan Adam,Pendidikan
+Q19747794,Sekolah Tinggi Ilmu Hukum Sumpah Pemuda,Pendidikan
+Q19752731,Sekolah Tinggi Ilmu Kepolisian,Pendidikan
+Q109912595,Sekolah Tinggi Ilmu Komunikasi Inter Studi,Pendidikan
+Q100418801,Sekolah Tinggi Ilmu Manajemen Indonesia Handayani,Pendidikan
+Q19752732,Sekolah Tinggi Ilmu Manajemen Yayasan Keluarga Pahlawan Negara,Pendidikan
+Q19745903,Sekolah Tinggi Ilmu Pelayaran Jakarta,Pendidikan
+Q109919700,Sekolah Tinggi Ilmu Teknik Trisula,Pendidikan
+Q12513095,Sekolah Tinggi Kesejahteraan Sosial,Pendidikan
+Q109913064,Sekolah Tinggi Manajemen Labora,Pendidikan
+Q12513106,Sekolah Tinggi Pariwisata Bandung,Pendidikan
+Q12513109,Sekolah Tinggi Perikanan,Pendidikan
+Q19752735,Sekolah Tinggi Pertanahan Nasional,Pendidikan
+Q12513114,Sekolah Tinggi Teknik Bandung,Pendidikan
+Q12513120,Sekolah Tinggi Teknik Surabaya,Pendidikan
+Q97591568,Sekolah Tinggi Teknologi Garut,Pendidikan
+Q12513128,Sekolah Tinggi Teknologi Tekstil,Pendidikan
+Q12513134,Sekolah Tinggi Teologi HKBP Pematangsiantar,Pendidikan
+Q6124490,Sekolah Tinggi Teologi Jakarta,Pendidikan
+Q19732654,Sekolah calon perwira Indonesia,Pendidikan
+Q12513146,Sekolah tinggi keguruan dan ilmu pendidikan,Pendidikan
+Q12513460,Seminari Pius XII,Pendidikan
+Q209842,Sorbonne Universitas Paris,Pendidikan
+Q2503208,Taman Siswa,Pendidikan
+Q31204378,Technische Hoogeschool te Bandoeng,Pendidikan
+Q587326,Tokyo Institute of Technology,Pendidikan
+Q12522857,Tweede Inlandsche School,Pendidikan
+Q12522872,UIN Alauddin Makassar,Pendidikan
+Q14917501,UIN Maulana Malik Ibrahim,Pendidikan
+Q12522871,UIN Sultan Syarif Kasim Riau,Pendidikan
+Q31173528,UIN Sulthan Thaha Saifuddin,Pendidikan
+Q1784861,United World College of South East Asia,Pendidikan
+Q12513081,Universitas 'Aisyiyah Yogyakarta,Pendidikan
+Q12523282,Universitas 17 Agustus 1945 Jakarta,Pendidikan
+Q12523281,Universitas 17 Agustus 1945 Samarinda,Pendidikan
+Q28954262,Universitas 17 Agustus 1945 Semarang,Pendidikan
+Q12523284,Universitas 17 Agustus 1945 Surabaya,Pendidikan
+Q17997528,Universitas 45 Mataram,Pendidikan
+Q19744754,Universitas Abulyatama,Pendidikan
+Q12523288,Universitas Achmad Yani,Pendidikan
+Q13098260,Universitas Ahmad Dahlan,Pendidikan
+Q1494353,Universitas Airlangga,Pendidikan
+Q12523290,Universitas Al Azhar Indonesia,Pendidikan
+Q12523291,Universitas Al Azhar Medan,Pendidikan
+Q19744757,Universitas Al Muslim,Pendidikan
+Q173959,Universitas Al-Azhar,Pendidikan
+Q12523289,Universitas Al-Ghifari,Pendidikan
+Q19744759,Universitas Alkhairaat,Pendidikan
+Q168000,Universitas Amerika,Pendidikan
+Q30265568,Universitas Amir Hamzah,Pendidikan
+Q214341,Universitas Amsterdam,Pendidikan
+Q280361,Universitas Andalas,Pendidikan
+Q503419,Universitas Arizona,Pendidikan
+Q20426266,Universitas Atma Jaya,Pendidikan
+Q14457713,Universitas Atma Jaya Yogyakarta,Pendidikan
+Q492467,Universitas Auckland,Pendidikan
+Q28950077,Universitas Azzahra,Pendidikan
+Q550376,Universitas Baghdad,Pendidikan
+Q12523294,Universitas Baiturrahmah,Pendidikan
+Q12523297,Universitas Bandar Lampung,Pendidikan
+Q12523299,Universitas Bandung Raya,Pendidikan
+Q12523301,Universitas Batanghari,Pendidikan
+Q153006,Universitas Bebas Berlin,Pendidikan
+Q7481592,Universitas Bengkulu,Pendidikan
+Q12523302,Universitas Bhayangkara,Pendidikan
+Q12523305,Universitas Bina Darma,Pendidikan
+Q3267815,Universitas Bina Nusantara,Pendidikan
+Q223429,Universitas Birmingham,Pendidikan
+Q12523306,Universitas Bojonegoro,Pendidikan
+Q12523307,Universitas Borobudur,Pendidikan
+Q12523285,Universitas Bosowa,Pendidikan
+Q49110,Universitas Boston,Pendidikan
+Q1336952,Universitas Brawijaya,Pendidikan
+Q19744761,Universitas Bung Hatta,Pendidikan
+Q12523309,Universitas Bung Karno,Pendidikan
+Q168756,"Universitas California, Berkeley",Pendidikan
+Q35794,Universitas Cambridge,Pendidikan
+Q951305,Universitas Cape Town,Pendidikan
+Q1041737,Universitas Carleton,Pendidikan
+Q3130435,Universitas Cenderawasih,Pendidikan
+Q131252,Universitas Chicago,Pendidikan
+Q736674,Universitas Colorado Boulder,Pendidikan
+Q49088,Universitas Columbia,Pendidikan
+Q49115,Universitas Cornell,Pendidikan
+Q1145497,Universitas Curtin,Pendidikan
+Q1351317,Universitas Damaskus,Pendidikan
+Q12523313,Universitas Darma Agung,Pendidikan
+Q12523315,Universitas Darul 'Ulum,Pendidikan
+Q12523316,Universitas Darul Ulum Islamic Center,Pendidikan
+Q1180978,Universitas Deakin,Pendidikan
+Q56400170,Universitas Dipa Makassar,Pendidikan
+Q4200627,Universitas Diponegoro,Pendidikan
+Q12523318,Universitas Dr. Soetomo,Pendidikan
+Q458393,Universitas Durham,Pendidikan
+Q12523319,Universitas Dwijendra,Pendidikan
+Q12523322,Universitas Ekasakti,Pendidikan
+Q633529,Universitas Erasmus Rotterdam,Pendidikan
+Q12523323,Universitas Esa Unggul,Pendidikan
+Q23807190,Universitas Fajar,Pendidikan
+Q746592,Universitas Filipina,Pendidikan
+Q15575,Universitas Flinders,Pendidikan
+Q12523324,Universitas Flores,Pendidikan
+Q1145992,Universitas Gadjah Mada,Pendidikan
+Q19745825,Universitas Gajayana,Pendidikan
+Q12523326,Universitas Garut,Pendidikan
+Q432637,Universitas George Washington,Pendidikan
+Q850730,Universitas Groningen,Pendidikan
+Q12523328,Universitas Gunadarma,Pendidikan
+Q5629974,Universitas HKBP Nommensen,Pendidikan
+Q5643706,Universitas Haluoleo,Pendidikan
+Q12523330,Universitas Hang Tuah,Pendidikan
+Q13371,Universitas Harvard,Pendidikan
+Q478044,Universitas Hasanuddin,Pendidikan
+Q217439,Universitas Hawaii,Pendidikan
+Q28949971,Universitas Hindu Indonesia,Pendidikan
+Q19744776,Universitas Ibn Khaldun Bogor,Pendidikan
+Q12523331,Universitas Ibnu Chaldun,Pendidikan
+Q12523329,Universitas Ibnu Khaldun,Pendidikan
+Q174158,Universitas Ibrani Yerusalem,Pendidikan
+Q457281,Universitas Illinois Urbana-Champaign,Pendidikan
+Q2693497,Universitas Ilmu Terapan Den Haag,Pendidikan
+Q534515,Universitas Indonesia,Pendidikan
+Q30265565,Universitas Indonesia Timur,Pendidikan
+Q182973,Universitas Iowa,Pendidikan
+Q12523335,Universitas Islam Al-Azhar Mataram,Pendidikan
+Q12523337,Universitas Islam As-Syafiiyah,Pendidikan
+Q4854741,Universitas Islam Bandung,Pendidikan
+Q3716653,Universitas Islam Imam Muhammad bin Saud,Pendidikan
+Q350752,Universitas Islam Indonesia,Pendidikan
+Q14933725,Universitas Islam Jakarta,Pendidikan
+Q12486639,Universitas Islam KH. Ruhiat Cipasung,Pendidikan
+Q12523340,Universitas Islam Kalimantan Muhammad Arsyad Al-Banjary,Pendidikan
+Q1141959,Universitas Islam Madinah,Pendidikan
+Q12523343,Universitas Islam Makassar,Pendidikan
+Q12523344,Universitas Islam Malang,Pendidikan
+Q12486116,Universitas Islam Negeri Antasari,Pendidikan
+Q30632611,Universitas Islam Negeri Ar-Raniry,Pendidikan
+Q16182620,Universitas Islam Negeri Imam Bonjol,Pendidikan
+Q12486118,Universitas Islam Negeri Mataram,Pendidikan
+Q20426828,Universitas Islam Negeri Sjech M. Djamil Djambek Bukittinggi,Pendidikan
+Q12486122,Universitas Islam Negeri Sumatera Utara,Pendidikan
+Q52636873,Universitas Islam Negeri Sunan Ampel Surabaya,Pendidikan
+Q13098212,Universitas Islam Negeri Sunan Gunung Djati Bandung,Pendidikan
+Q12523348,Universitas Islam Negeri Sunan Kalijaga Yogyakarta,Pendidikan
+Q12523349,Universitas Islam Negeri Syarif Hidayatullah Jakarta,Pendidikan
+Q12486124,Universitas Islam Negeri UIN Sunan Ampel Surabaya,Pendidikan
+Q11223593,Universitas Islam Negeri Walisongo,Pendidikan
+Q12523345,Universitas Islam Nusantara,Pendidikan
+Q7089955,Universitas Islam Omdurman,Pendidikan
+Q12523347,Universitas Islam Riau,Pendidikan
+Q12523351,Universitas Islam Sultan Agung,Pendidikan
+Q12523350,Universitas Islam Sumatera Utara,Pendidikan
+Q12523352,Universitas Islam Syekh Yusuf Tangerang,Pendidikan
+Q109913937,Universitas Jakarta,Pendidikan
+Q6127803,Universitas Jambi,Pendidikan
+Q12523354,Universitas Janabadra,Pendidikan
+Q12523355,Universitas Jayabaya,Pendidikan
+Q13098258,Universitas Jember,Pendidikan
+Q12523356,Universitas Jenderal Achmad Yani,Pendidikan
+Q6177417,Universitas Jenderal Soedirman,Pendidikan
+Q30294755,Universitas Kartini,Pendidikan
+Q2308020,Universitas Katolik Indonesia Atma Jaya,Pendidikan
+Q14091635,Universitas Katolik Parahyangan,Pendidikan
+Q19744798,Universitas Katolik Santo Thomas,Pendidikan
+Q7553485,Universitas Katolik Soegijapranata,Pendidikan
+Q97307370,Universitas Katolik Widya Karya,Pendidikan
+Q12523364,Universitas Katolik Widya Mandira,Pendidikan
+Q1360303,Universitas Kentucky,Pendidikan
+Q1192597,Universitas Kobe,Pendidikan
+Q1144000,Universitas Komunis Para Pekerja dari Timur,Pendidikan
+Q119465722,Universitas Koperasi Indonesia,Pendidikan
+Q12523366,Universitas Krisnadwipayana,Pendidikan
+Q5317233,Universitas Kristen Duta Wacana,Pendidikan
+Q7894412,Universitas Kristen Indonesia,Pendidikan
+Q12523368,Universitas Kristen Indonesia Paulus,Pendidikan
+Q20427719,Universitas Kristen Indonesia Tomohon,Pendidikan
+Q1141728,Universitas Kristen Internasional,Pendidikan
+Q7894414,Universitas Kristen Krida Wacana,Pendidikan
+Q6754778,Universitas Kristen Maranatha,Pendidikan
+Q7178629,Universitas Kristen Petra,Pendidikan
+Q7426888,Universitas Kristen Satya Wacana,Pendidikan
+Q109911108,Universitas Kutai Kartanegara,Pendidikan
+Q3273657,Universitas Kuwait,Pendidikan
+Q336264,Universitas Kyoto,Pendidikan
+Q1188786,Universitas Kyushu,Pendidikan
+Q1478723,Universitas La Trobe,Pendidikan
+Q1896627,Universitas Lambung Mangkurat,Pendidikan
+Q6482697,Universitas Lampung,Pendidikan
+Q12523371,Universitas Lancang Kuning,Pendidikan
+Q19744804,Universitas Langlangbuana,Pendidikan
+Q503424,Universitas Leeds,Pendidikan
+Q156598,Universitas Leiden,Pendidikan
+Q170027,Universitas London,Pendidikan
+Q97307913,Universitas MH Thamrin,Pendidikan
+Q741082,Universitas Macquarie,Pendidikan
+Q19744808,Universitas Mahaputra Muhammad Yamin,Pendidikan
+Q19746168,Universitas Mahasaraswati Denpasar,Pendidikan
+Q30294464,Universitas Mahendradatta,Pendidikan
+Q161982,Universitas Mainz,Pendidikan
+Q25630027,Universitas Majalengka,Pendidikan
+Q1142924,Universitas Malaya,Pendidikan
+Q230899,Universitas Manchester,Pendidikan
+Q503415,Universitas Maryland,Pendidikan
+Q7895720,Universitas Mataram,Pendidikan
+Q12523376,Universitas Medan Area,Pendidikan
+Q319078,Universitas Melbourne,Pendidikan
+Q6818526,Universitas Mercu Buana Jakarta,Pendidikan
+Q12523378,Universitas Mercu Buana Yogyakarta,Pendidikan
+Q13098259,Universitas Merdeka Malang,Pendidikan
+Q7894416,Universitas Methodist Indonesia,Pendidikan
+Q2392351,Universitas Metropolitan Leeds,Pendidikan
+Q25471072,Universitas Mitra Indonesia,Pendidikan
+Q598841,Universitas Monash,Pendidikan
+Q28950103,Universitas Mpu Tantular,Pendidikan
+Q12523382,Universitas Muhammadiyah Aceh,Pendidikan
+Q12523390,Universitas Muhammadiyah Jakarta,Pendidikan
+Q109434801,Universitas Muhammadiyah Jambi,Pendidikan
+Q12523386,Universitas Muhammadiyah Jember,Pendidikan
+Q12523389,Universitas Muhammadiyah Lampung,Pendidikan
+Q47927,Universitas Muhammadiyah Malang,Pendidikan
+Q12523394,Universitas Muhammadiyah Palangkaraya,Pendidikan
+Q12523400,Universitas Muhammadiyah Prof Dr Hamka,Pendidikan
+Q12523402,Universitas Muhammadiyah Semarang,Pendidikan
+Q12523404,Universitas Muhammadiyah Sumatera Barat,Pendidikan
+Q19744816,Universitas Muhammadiyah Sumatera Utara,Pendidikan
+Q12523407,Universitas Muhammadiyah Surabaya,Pendidikan
+Q4259201,Universitas Muhammadiyah Surakarta,Pendidikan
+Q12523406,Universitas Muhammadiyah Tapanuli Selatan,Pendidikan
+Q14917503,Universitas Muhammadiyah Yogyakarta,Pendidikan
+Q6933777,Universitas Mulawarman,Pendidikan
+Q12523408,Universitas Muslim Indonesia,Pendidikan
+Q683580,Universitas Nanjing,Pendidikan
+Q7894418,Universitas Nasional,Pendidikan
+Q127990,Universitas Nasional Australia,Pendidikan
+Q1444125,Universitas Nasional Malaysia,Pendidikan
+Q738236,Universitas Nasional Singapura,Pendidikan
+Q75639,Universitas Nasional Timor Lorosae,Pendidikan
+Q1100801,Universitas Negeri Cleveland,Pendidikan
+Q861548,Universitas Negeri Florida,Pendidikan
+Q12712165,Universitas Negeri Jakarta,Pendidikan
+Q7603607,Universitas Negeri Makassar,Pendidikan
+Q4250919,Universitas Negeri Malang,Pendidikan
+Q7603611,Universitas Negeri Medan,Pendidikan
+Q861888,Universitas Negeri Oregon,Pendidikan
+Q7603634,Universitas Negeri Padang,Pendidikan
+Q739627,Universitas Negeri Pennsylvania,Pendidikan
+Q7603641,Universitas Negeri Semarang,Pendidikan
+Q18941968,Universitas Negeri Surabaya,Pendidikan
+Q12523418,Universitas Negeri Yogyakarta,Pendidikan
+Q734764,Universitas New South Wales,Pendidikan
+Q28950140,Universitas Ngurah Rai,Pendidikan
+Q1681928,Universitas Norwich,Pendidikan
+Q178848,Universitas Notre Dame,Pendidikan
+Q472316,Universitas Nottingham,Pendidikan
+Q97228230,Universitas Nuku,Pendidikan
+Q12523415,Universitas Nurtanio Bandung,Pendidikan
+Q43398922,Universitas Nurul Jadid,Pendidikan
+Q7896000,Universitas Nusa Cendana,Pendidikan
+Q1075339,Universitas Ohio,Pendidikan
+Q651233,Universitas Osaka,Pendidikan
+Q1201513,Universitas Otago,Pendidikan
+Q52636186,Universitas PGRI Sumatera Barat,Pendidikan
+Q97223044,Universitas PTIQ Jakarta,Pendidikan
+Q3181122,Universitas Padjadjaran,Pendidikan
+Q12523421,Universitas Pakuan,Pendidikan
+Q7896055,Universitas Palangka Raya,Pendidikan
+Q19744827,Universitas Panca Bhakti,Pendidikan
+Q12523422,Universitas Pancasakti Tegal,Pendidikan
+Q19749142,Universitas Pancasila,Pendidikan
+Q12523423,Universitas Paramadina,Pendidikan
+Q7476068,Universitas Pasundan,Pendidikan
+Q7896071,Universitas Pattimura,Pendidikan
+Q56394483,Universitas Pejuang Republik Indonesia,Pendidikan
+Q1847733,Universitas Pelita Harapan,Pendidikan
+Q12523428,"Universitas Pembangunan Nasional ""Veteran"" Jakarta",Pendidikan
+Q12523429,"Universitas Pembangunan Nasional ""Veteran"" Yogyakarta",Pendidikan
+Q7896072,Universitas Pembangunan Nasional Veteran Jatim,Pendidikan
+Q97200009,Universitas Pembangunan Panca Budi,Pendidikan
+Q12523432,Universitas Pembinaan Masyarakat Indonesia,Pendidikan
+Q3213529,Universitas Pendidikan Indonesia,Pendidikan
+Q12523434,Universitas Pendidikan Nasional,Pendidikan
+Q49117,Universitas Pennsylvania,Pendidikan
+Q117876,Universitas Pepperdine,Pendidikan
+Q12523435,Universitas Persada Indonesia YAI,Pendidikan
+Q839669,Universitas Persahabatan Rakyat Rusia,Pendidikan
+Q1301275,Universitas Pertanian dan Teknologi Tokyo,Pendidikan
+Q23807281,Universitas Prasetiya Mulya,Pendidikan
+Q25457659,Universitas Prof Dr Hazairin SH,Pendidikan
+Q12523440,Universitas Prof. Dr. Moestopo,Pendidikan
+Q109913877,Universitas Proklamasi  45,Pendidikan
+Q1549932,Universitas Punjab,Pendidikan
+Q28725046,Universitas Putra Bangsa Kebumen,Pendidikan
+Q12523443,Universitas Putra Indonesia,Pendidikan
+Q1458579,Universitas Putra Malaysia,Pendidikan
+Q56394484,Universitas Quality Berastagi,Pendidikan
+Q866012,Universitas Queensland,Pendidikan
+Q7322177,Universitas Riau,Pendidikan
+Q12523446,Universitas Riau Kepulauan,Pendidikan
+Q97308548,Universitas Sains Al Qur'an,Pendidikan
+Q1973130,Universitas Sains Malaysia,Pendidikan
+Q7408055,Universitas Sam Ratulangi,Pendidikan
+Q12523449,Universitas Samudra,Pendidikan
+Q1887879,Universitas San Francisco,Pendidikan
+Q7415523,Universitas Sanata Dharma,Pendidikan
+Q28950168,Universitas Satria Makassar,Pendidikan
+Q12523454,Universitas Satya Negara Indonesia,Pendidikan
+Q12523455,Universitas Satyagama,Pendidikan
+Q615873,Universitas Seattle,Pendidikan
+Q7442749,Universitas Sebelas Maret,Pendidikan
+Q19744837,Universitas Siliwangi,Pendidikan
+Q12523463,Universitas Sintuwu Maroso,Pendidikan
+Q12523466,Universitas Slamet Riyadi,Pendidikan
+Q4200297,Universitas Sriwijaya,Pendidikan
+Q969850,Universitas Stony Brook,Pendidikan
+Q30294512,Universitas Sulawesi Tenggara,Pendidikan
+Q7636602,Universitas Sultan Ageng Tirtayasa,Pendidikan
+Q4200341,Universitas Sumatera Utara,Pendidikan
+Q7896370,Universitas Surabaya,Pendidikan
+Q13098269,Universitas Surakarta,Pendidikan
+Q28950106,Universitas Surapati,Pendidikan
+Q12523469,Universitas Suryadarma,Pendidikan
+Q12523470,Universitas Swadaya Gunung Jati,Pendidikan
+Q600107,Universitas Swiss German,Pendidikan
+Q487556,Universitas Sydney,Pendidikan
+Q3958218,Universitas Syiah Kuala,Pendidikan
+Q12523473,Universitas Tadulako,Pendidikan
+Q28950092,Universitas Tama Jagakarsa,Pendidikan
+Q12523472,Universitas Tamansiswa Padang,Pendidikan
+Q7683446,Universitas Tanjungpura,Pendidikan
+Q7686915,Universitas Tarumanagara,Pendidikan
+Q752663,Universitas Teknik Delft,Pendidikan
+Q721064,Universitas Teknologi Nanyang,Pendidikan
+Q273263,Universitas Teknologi Rhein Westfalen Aachen,Pendidikan
+Q97570359,Universitas Teknologi Surabaya,Pendidikan
+Q1145731,Universitas Teknologi Sydney,Pendidikan
+Q15057698,Universitas Telkom,Pendidikan
+Q1420239,Universitas Temple,Pendidikan
+Q1150105,Universitas Tennessee,Pendidikan
+Q7894421,Universitas Terbuka,Pendidikan
+Q49212,Universitas Texas A&M,Pendidikan
+Q28950058,Universitas Timbul Nusantara,Pendidikan
+Q12523475,Universitas Timor,Pendidikan
+Q30266547,Universitas Trilogi,Pendidikan
+Q4250926,Universitas Trisakti,Pendidikan
+Q97570481,Universitas Tritunggal Surabaya,Pendidikan
+Q49120,Universitas Tufts,Pendidikan
+Q1573634,Universitas Udayana,Pendidikan
+Q29052,Universitas Vanderbilt,Pendidikan
+Q213439,Universitas Virginia,Pendidikan
+Q1575044,Universitas Visva-Bharati,Pendidikan
+Q1065414,Universitas Vrije Amsterdam,Pendidikan
+Q274486,Universitas Waseda,Pendidikan
+Q1517021,Universitas Western Australia,Pendidikan
+Q1141452,Universitas Western Sydney,Pendidikan
+Q1247544,Universitas Westminster,Pendidikan
+Q12523482,Universitas Widya Mataram Yogyakarta,Pendidikan
+Q12523483,Universitas Wijaya Kusuma Surabaya,Pendidikan
+Q12523484,Universitas Wijaya Putra,Pendidikan
+Q12523487,Universitas Wiraswasta Indonesia,Pendidikan
+Q1350021,Universitas Wollongong,Pendidikan
+Q8045825,Universitas YARSI,Pendidikan
+Q97570484,Universitas Yappan,Pendidikan
+Q610253,Universitas Yordania,Pendidikan
+Q25460602,Universitas Yos Sudarso Surabaya,Pendidikan
+Q206702,Universitas Zürich,Pendidikan
+Q422208,Universitas dan Riset Wageningen,Pendidikan
+Q1723289,Universiti Utara Malaysia,Pendidikan
+Q38881,Universits Ilmu Terapan Inholland,Pendidikan
+Q193196,University College London,Pendidikan
+Q129421,University of California,Pendidikan
+Q7926798,Victoria Institution,Pendidikan
+Q49205,Wellesley College,Pendidikan
+Q97572689,Xaverius III Palembang,Pendidikan
+Q3918,universitas,Pendidikan
+Q30294500,universitas yapis papua,Pendidikan
