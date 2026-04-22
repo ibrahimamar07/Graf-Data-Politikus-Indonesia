@@ -296,18 +296,6 @@ ORDER BY jumlah_alumni DESC LIMIT 15;
 
 ---
 
-## 📊 Hasil Analisis
-
-| Metrik | Nilai |
-|---|---|
-| Total Node | 54.357 |
-| Total Edge | 55.161 |
-| Komunitas (Louvain) | 44 |
-| Modularity Score | 0.895 |
-| Partai Betweenness Tertinggi | Partai Amanat Nasional (0.1613) |
-| Partai PageRank Tertinggi | Partai Golongan Karya (0.0289) |
-| Pasangan Partai Paling Mirip | PKS ↔ Gelora (Jaccard: 0.0081) |
-| Politikus Kerabat Terbanyak | Megawati Soekarnoputri (7 kerabat politikus) |
 
 ---
 
